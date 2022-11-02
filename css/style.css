@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+
+    background-color: #ddd;
+}
+.sign-up{
+    width: 340px;
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 10);
+    background-color: #fff;
+    padding: 15px;
+    margin: 5.5% auto 0;
+    text-align: center;
+    border-radius: 10px;
+}
+.sign-up h1{
+    color: #1c8adb;
+    margin-bottom: 30px;
+}
+.box{
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px 0;
+    width: 100%;
+    border: 1px solid #999;
+    outline: none;
+    margin-bottom: 25px;
+}
+button{
+    color: #fff;
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 10px 0;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+.signup-btn{
+    background-color: #1c8adb;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.face-btn{
+    background-color: #0d5a91;
+    margin-bottom: 20px;
+}
+a{
+    text-decoration: none;
+    background-color: #1c8adb;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+    margin-left: 6px;
+}
+p{
+    color: rgb(100, 99, 99);
+
+}
+hr{
+    margin-bottom: 10px;
+}
+.or{
+    background: #fff;
+    width: 30px;
+    margin: -19px auto 10px;
+}
+img{
+    max-width: 70px;
+    margin-top: -50px;
+}
+img:hover{
+    transform: rotateX(5deg) rotateY(-10deg);
+}
+.footer{
+    margin-top: 25px;
+    color: #999;
+}
